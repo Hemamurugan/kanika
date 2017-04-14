@@ -1,7 +1,6 @@
-hellow
-<<<<<<< HEAD
-murugan
-=======
-modification
-master
->>>>>>> firstbranch
+1
+2
+3
+4
+5
+
