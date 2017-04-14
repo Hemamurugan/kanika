@@ -1,2 +1,7 @@
 hellow
+<<<<<<< HEAD
 murugan
+=======
+modification
+master
+>>>>>>> firstbranch
